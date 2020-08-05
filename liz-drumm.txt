@@ -107,14 +107,14 @@ Copy the questions below into the first-lastname.txt file on your github repo - 
     - To commit changes - git commit -m "Your helpful commit message here" will commit the changes with your specified commit message that explains the changes you've made
     -To push your changes back up to your Github repo -- git push -u origin branch-name will push all of your commits from your local machine up onto github
     -Now that the changes are on github you can submit a pull request
-    -Go back to your forked Project repo on github 
-        - Click on the Branch:master button on the left side and select your name-branch
+    -Go back to your forked Project repo on github and do the following:
+        - Click on the Branch:master button and select your name-branch
         - Click your name-branch and then click the **New pull request** button to make a pull request on your name branch
         - After you click new pull request it should redirect you to the pull request page
         -When you get to the PR page, make sure to click the dropdown button that says base repository and change it to be your repo
-        -Add your TL to the **Reviewers** and then submit the pull request
+        -Add your TL to the Reviewers and then submit the pull request
+       
 
-- IT IS IMPORTANT THAT YOU DO NOT CLICK THE **Create pull request** BUTTON UNTIL AFTER YOU'VE COMPLETED THE NEXT STEP
 
 
 
